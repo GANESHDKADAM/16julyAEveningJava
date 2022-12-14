@@ -7,10 +7,15 @@ public class concreateClass2 extends test2
 	{
 		concreateClass2 c2= new concreateClass2();
 		c2.demo();
+		
 		c2.demo1();
+		
 		c2.demo3();
+		
 		c2.demo4();
+		
 		c2.demo5();
+		
 		c2.demo2();
 
 	}
